@@ -1,10 +1,12 @@
 Privacy Policy
+
 Vacaby app is an Ad Supported app with in-app purchases to unlock some features immidiately. This Service is provided by Vacaby app and is intended for use as is.
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Vacaby app unless otherwise defined in this Privacy Policy.
 
 Information Collection and Use
+
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device and is not collected by us in any way.
 Through the registration process, you will provide us with your e-mail address. We use Google Firebase for authentication and storing in-app progress. It provides us with a safe, secure authentication system to manage your sign-up and logging in to the app using an email address and a password.
 It collects the following information from you:
