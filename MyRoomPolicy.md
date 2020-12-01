@@ -16,6 +16,7 @@ User agents
 IP addresses
 
 User progress in the app
+
 Firebase Authentication uses the data to enable end-user authentication, and facilitate end-user account management. It also uses user-agent strings (a basic description of your device model) and IP addresses to provide added security and prevent abuse during sign-up and authentication.
 Security of user's personal information is very important to us, hence we take backup regularly to protect your information, words, and data to help Vocaby running robustly.
 The app does use third party services that may collect information used to identify you and to display personalized ads. The user can disable ads by making in-app purchases.
@@ -25,13 +26,16 @@ AdMob
 Firebase Analytics
 
 Log Data
+
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
 Cookies
+
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services.
 
 Opt-out of interest-based advertising
+
 If you do not want to receive behavioral in-application advertisements from third parties that relate to your interests on your mobile device, you can opt-out of interest-based advertising by checking the privacy settings of your Android or iOS device and selecting "limit ad tracking" (Apple iOS) or "opt-out of interest based ads" (Android). You can also reset the “Advertising Identifier” (such as an IDFA) from your mobile device’s settings page, which will prevent continued use of existing behavioral data tied to your previous “Advertising Identifier.” Further, depending on the platform provider (such as Apple or Google), you may be able to download apps, such as the Digital Advertising Alliance’s “AppChoices” app, that offer to provide you with control regarding the collection and use of cross-app data for behavioral advertising.
 Some of the third-party services providers and/or Advertisers may be members of the Network Advertising Initiative ("NAI") or the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising. You can visit http://www.networkadvertising.org/managing/opt_out.asp, which provides information regarding targeted advertising and the "opt-out" procedures of NAI members. You can opt-out of our use of your Web site viewing behavior data to serve you interest-based advertising on third-party sites and email newsletters here http://www.aboutads.info/choices.
 We also partner with Google to show ads. You can opt-out ad personalization using https://adssettings.google.com/authenticated.
@@ -40,6 +44,7 @@ All of the opt-out tools described in this subsection are provided by third part
 Please note opting out through these mechanisms does not opt you out of being served advertising. You will continue to receive generic ads which may be less relevant to your interests.
 
 Service Providers
+
 We may employ third-party companies and individuals due to the following reasons:
 To facilitate our Service;
 To provide the Service on our behalf;
@@ -48,16 +53,21 @@ To assist us in analyzing how our Service is used.
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 Security
+
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
 Links to Other Sites
+
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 Children’s Privacy
+
 We do not set any bar of using our app. These services do not have any age restrictions. Anyone can use this app to learn vocabulary effectively and efficiently.
 
 Changes to This Privacy Policy
+
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 Contact Us
+
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at mydostech@gmail.com 
